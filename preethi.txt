@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 jilla kaavali    avunaaaaa  nn   mmm
+=======
+avunnnaaaaaa    aithele
+
+
+
+11
+>>>>>>> b1
